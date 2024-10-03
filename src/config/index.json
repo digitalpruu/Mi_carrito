@@ -62,10 +62,10 @@
         "icon": "/assets/images/email.png"
       },
       {
-        
-      },
-      {
-        
+        "name": "Facebook",
+        "description": "Mi Carrito, Llena de FE y Esperanza.",
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
